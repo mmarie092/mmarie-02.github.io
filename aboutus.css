@@ -73,6 +73,7 @@
  	 clear: both;
      color: black;
      background-color: Gainsboro;
+	margin: 20px;
     }
     
    .nav li {
